@@ -1,0 +1,18 @@
+INFO 2020-12-18 23:00:17,849 autoreload 612 Watching for file changes with StatReloader
+INFO 2020-12-18 23:04:14,492 autoreload 236 C:\Users\Administrator\Envs\django_restdemo\Lib\site-packages\django\db\backends\mysql\base.py changed, reloading.
+INFO 2020-12-18 23:04:16,744 autoreload 612 Watching for file changes with StatReloader
+INFO 2020-12-18 23:05:46,001 autoreload 612 Watching for file changes with StatReloader
+INFO 2020-12-18 23:08:30,915 autoreload 612 Watching for file changes with StatReloader
+INFO 2020-12-18 23:10:46,021 autoreload 236 E:\ZJM_Python_Project\meiduo_pro\meiduo_shop\meiduo_shop\settings\dev.py changed, reloading.
+INFO 2020-12-18 23:10:47,938 autoreload 612 Watching for file changes with StatReloader
+INFO 2020-12-18 23:11:00,014 autoreload 612 Watching for file changes with StatReloader
+INFO 2020-12-18 23:12:28,118 autoreload 236 E:\ZJM_Python_Project\meiduo_pro\meiduo_shop\meiduo_shop\settings\dev.py changed, reloading.
+INFO 2020-12-18 23:12:30,117 autoreload 612 Watching for file changes with StatReloader
+INFO 2020-12-20 12:38:49,684 autoreload 612 Watching for file changes with StatReloader
+INFO 2020-12-20 12:47:04,377 basehttp 157 "GET / HTTP/1.1" 200 16351
+INFO 2020-12-20 12:47:04,483 basehttp 157 "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+INFO 2020-12-20 12:47:04,843 basehttp 157 "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+INFO 2020-12-20 12:47:04,844 basehttp 157 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+INFO 2020-12-20 12:47:04,860 basehttp 157 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+WARNING 2020-12-20 12:47:05,169 log 230 Not Found: /favicon.ico
+WARNING 2020-12-20 12:47:05,170 basehttp 157 "GET /favicon.ico HTTP/1.1" 404 1977
