@@ -60,7 +60,7 @@ $(function(){
 		if(nowli<0)
 		{
 			nowli=len-1;
-			prevli = 0;
+			prevli = 0
 			$slides.eq(nowli).animate({'opacity':1},800);
 			$slides.eq(prevli).animate({'opacity':0},800);
 			prevli=nowli;
@@ -90,4 +90,4 @@ $(function(){
 			prevli=nowli;		
 		}
 	}
-});
+})
